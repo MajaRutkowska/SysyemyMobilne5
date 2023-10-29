@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apka2</string>
+    <string name="name_label">Nazwa</string>
+    <string name="name_hint">Wpisz nazwę zadania</string>
+    <string name="detail_label">Szczegóły</string>
+    <string name="done_label">Zadanie zakończone</string>
+    <string name="button_text">Kliknij</string>
+</resources>
