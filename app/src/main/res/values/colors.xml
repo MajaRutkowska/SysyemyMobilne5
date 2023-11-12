@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="dark_grey">#000AA1</color>
+    <color name="gray">#59656F</color>
+    <color name="rose_violet">#AC9FBB</color>
+    <color name="light_rose">#F6F0F5</color>
+    <color name="blush">#F7EBEC</color>
+    <color name="light_green">#256A68</color>
+    <color name="lemon">#FAD700</color>
+    <color name="orange">#FA8A00</color>
+    <color name="v_dark_blue">#13293D</color>
+    <color name="light_blue">#6CD4FF</color>
+    <color name="v_light_blue">#CAE9F5</color>
+    <color name="dark_purple">#4C0D49</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#150750</color>
+    <color name="dark_green">#14540d</color>
+    <color name="tale">#426581</color>
 </resources>

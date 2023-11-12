@@ -29,3 +29,5 @@ _
 /app/src/main/java/p/edu/pb/apka2/Activity2.java,f\7\f7a104e6a138df9938332a2217f6720f133feb55
 f
 6app/src/main/java/p/edu/pb/apka2/TaskListFragment.java,6\5\654ecfd588d5621f06761fd853dbd58a2bf21cc3
+^
+.app/src/main/java/p/edu/pb/apka2/Category.java,2\5\2547dfea6184602d4de8dbc6f9cf9a3ccb5f7260

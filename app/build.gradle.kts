@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "p.edu.pb.apka2"
-        minSdk = 23
+        minSdk = 24
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"

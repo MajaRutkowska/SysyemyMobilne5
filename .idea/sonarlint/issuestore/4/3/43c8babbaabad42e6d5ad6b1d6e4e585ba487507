@@ -1,10 +1,10 @@
 
 ^
-java:S1874"<Remove this use of "getSerializableExtra"; it is deprecated.(şåÕüÿÿÿÿ8±«¨‘·1
-X	java:S125"<This block of commented-out lines of code should be removed.(Úù¬ú8²«¨‘·1
+java:S1874"<Remove this use of "getSerializableExtra"; it is deprecated.(şåÕüÿÿÿÿ8õñœ§º1
+X	java:S125"<This block of commented-out lines of code should be removed.(Úù¬ú8õñœ§º1
 b
-java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8°Ÿö‘·1
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8…òœ§º1
 d
-java:S1128"BRemove this unused import 'androidx.fragment.app.FragmentManager'.(¯­ë‹ıÿÿÿÿ8±Ÿö‘·1
+java:S1128"BRemove this unused import 'androidx.fragment.app.FragmentManager'.(¯­ë‹ıÿÿÿÿ8…òœ§º1
 P
-java:S1128".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ8²Ÿö‘·1
+java:S1128".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ8…òœ§º1

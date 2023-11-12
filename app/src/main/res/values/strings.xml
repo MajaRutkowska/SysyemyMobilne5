@@ -1,8 +1,15 @@
 <resources>
-    <string name="app_name">Apka2</string>
+    <string name="app_name">DoZrobienia</string>
     <string name="name_label">Nazwa</string>
     <string name="name_hint">Wpisz nazwę zadania</string>
     <string name="detail_label">Szczegóły</string>
     <string name="done_label">Zadanie zakończone</string>
-    <string name="button_text">Kliknij</string>
+    <string name="button_text">Data</string>
+    <string name="no_date">Brak daty</string>
+    <string name="improtant_task">Pilne zadaine </string>
+    <string name="task_add_new">Nowe zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+
 </resources>
